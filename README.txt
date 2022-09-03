@@ -1,0 +1,1 @@
+This is a VERY basic website built from scrap. If you wish to fork please customize it. Have fun ~Hunter
